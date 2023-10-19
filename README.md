@@ -1,2 +1,2 @@
 # test
-this is a test repo
+echo "this is a test repo"
